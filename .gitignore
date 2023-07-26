@@ -3,7 +3,7 @@ HELP.md
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
-!**/src/test/**/build/
+!**/src/testAnno/**/build/
 
 ### macOS ###
 .DS_Store
@@ -20,7 +20,7 @@ build/
 .sts4-cache
 bin/
 !**/src/main/**/bin/
-!**/src/test/**/bin/
+!**/src/testAnno/**/bin/
 
 ### IntelliJ IDEA ###
 .idea
@@ -29,7 +29,7 @@ bin/
 *.ipr
 out/
 !**/src/main/**/out/
-!**/src/test/**/out/
+!**/src/testAnno/**/out/
 
 ### NetBeans ###
 /nbproject/private/
